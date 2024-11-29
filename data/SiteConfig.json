@@ -4,7 +4,7 @@
     "donated":[
         {
             "name":"Turkey",
-            "progress":38,            
+            "progress":39,            
             "goals":[100, 150, 500, 1000, 5000],            
             "combine":true,
             "show":true           
