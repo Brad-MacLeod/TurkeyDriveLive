@@ -3,8 +3,8 @@
     "donated":[
         {
             "name":"Turkey",
-            "progress":130,            
-            "goal":100,            
+            "progress":187,            
+            "goal":200,            
             "combine":true,
             "show":true,
             "units":"each"        
@@ -19,7 +19,7 @@
         },
         {
             "name":"Donations",
-            "progress":200,            
+            "progress":2000,            
             "goal":2000,
             "combine":false,
             "show":true,
